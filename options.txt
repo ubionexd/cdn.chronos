@@ -1,6 +1,6 @@
 version:2975
 quilt_available_resource_packs:["programer_art","vanilla"]
-autoJump:true
+autoJump:false
 autoSuggestions:true
 chatColors:true
 chatLinks:true
