@@ -1,44 +1,45 @@
 hash-format = "sha256"
 
 [[files]]
+file = "_config.yml"
+
+[[files]]
 file = "mods/Essential-fabric_1-18-2.jar"
-hash = "255b3b4733ff0412d59c24e586f3ce811dc4292abb57a9ce3bd6ecbd6871f1ed"
 
 [[files]]
 file = "mods/appleskin.toml"
-hash = "0940f87fc8d934433725019169945f77b7c27bd4a23828286ffb68aac4810a6c"
 metafile = true
 
 [[files]]
+file = "mods/balm-fabric-3.0.0+0.jar"
+
+[[files]]
+file = "mods/cloth-config.toml"
+metafile = true
+
+[[files]]
+file = "mods/defaultoptions-fabric-1.18.1-14.1.0.jar"
+
+[[files]]
 file = "mods/krypton.toml"
-hash = "219d4425679c60fd2855a6a39a6fccb6db3948dcc57b9da7c20907c855c5bd3d"
 metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "8243fcb2221942db16259a029d2964ca41d7a336fccc60464597d9f0d6699529"
 metafile = true
 
 [[files]]
 file = "mods/qsl.toml"
-hash = "046d2a1630f05efc4c6dc894ca73c0f1f0868ef610262340af86a81283728294"
 metafile = true
 
 [[files]]
 file = "mods/sodium-extra.toml"
-hash = "f8d262a27787b948f6ec71d548131bcac4a60adc616a78db852a40d6461563be"
 metafile = true
 
 [[files]]
 file = "mods/sodium.toml"
-hash = "d1480fd38a1ac53311baa2d57b92556834372f6ac04c355169441df9a59a161c"
 metafile = true
 
 [[files]]
 file = "mods/starlight.toml"
-hash = "722031c0ae5d2de71783d6c4bfbf1c5cd25c65e55cb42d8bb4f7cadf478c4368"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "e2979a9a52f1212c139d8569989ad9fe2ca3b25c7b26b1aa1830b3756b8658dd"
