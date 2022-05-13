@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/essential.toml"
-hash = "466a8f94739a80391a611b445ef2a8582000ade6e25b6ea45fca43e897a77c5e"
-metafile = true
-
-[[files]]
 file = "mods/krypton.toml"
 hash = "219d4425679c60fd2855a6a39a6fccb6db3948dcc57b9da7c20907c855c5bd3d"
 metafile = true
