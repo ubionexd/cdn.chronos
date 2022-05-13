@@ -1,2 +1,3 @@
 # cdn.chronos
-CDN server for Chronos Client
+CDN service for Chronos Client  
+View source and files on [GitHub](https://github.com/ubionexd/cdn.chronos)
