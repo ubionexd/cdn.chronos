@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "7fad625f7d90ac7f0050b8d92a85f32369208b0503de73783fd3c017d28132eb"
+
+[[files]]
+file = "mods/Essential-fabric_1-18-2.jar"
+hash = "255b3b4733ff0412d59c24e586f3ce811dc4292abb57a9ce3bd6ecbd6871f1ed"
+
+[[files]]
 file = "mods/krypton.toml"
 hash = "219d4425679c60fd2855a6a39a6fccb6db3948dcc57b9da7c20907c855c5bd3d"
 metafile = true
