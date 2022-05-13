@@ -38,7 +38,3 @@ metafile = true
 file = "mods/starlight.toml"
 hash = "722031c0ae5d2de71783d6c4bfbf1c5cd25c65e55cb42d8bb4f7cadf478c4368"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "e2979a9a52f1212c139d8569989ad9fe2ca3b25c7b26b1aa1830b3756b8658dd"
