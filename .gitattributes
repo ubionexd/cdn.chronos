@@ -1,1 +1,3 @@
-*.txt binary
+* text=off
+
+*.txt -crlf
