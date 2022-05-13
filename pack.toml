@@ -1,0 +1,13 @@
+name = "Chronos Client"
+author = "ubionexd"
+version = "0.1.0"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "912ef21bdf9e3f7b7a2fe71d1c2701fa7cbd42d93c9fa539a9c1478e760062a8"
+
+[versions]
+minecraft = "1.18.2"
+quilt = "0.16.0"

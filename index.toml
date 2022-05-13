@@ -1,0 +1,31 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/essential.toml"
+hash = "466a8f94739a80391a611b445ef2a8582000ade6e25b6ea45fca43e897a77c5e"
+metafile = true
+
+[[files]]
+file = "mods/krypton.toml"
+hash = "219d4425679c60fd2855a6a39a6fccb6db3948dcc57b9da7c20907c855c5bd3d"
+metafile = true
+
+[[files]]
+file = "mods/lithium.toml"
+hash = "8243fcb2221942db16259a029d2964ca41d7a336fccc60464597d9f0d6699529"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.toml"
+hash = "f8d262a27787b948f6ec71d548131bcac4a60adc616a78db852a40d6461563be"
+metafile = true
+
+[[files]]
+file = "mods/sodium.toml"
+hash = "d1480fd38a1ac53311baa2d57b92556834372f6ac04c355169441df9a59a161c"
+metafile = true
+
+[[files]]
+file = "mods/starlight.toml"
+hash = "722031c0ae5d2de71783d6c4bfbf1c5cd25c65e55cb42d8bb4f7cadf478c4368"
+metafile = true
