@@ -16,6 +16,11 @@ hash = "8243fcb2221942db16259a029d2964ca41d7a336fccc60464597d9f0d6699529"
 metafile = true
 
 [[files]]
+file = "mods/qsl.toml"
+hash = "046d2a1630f05efc4c6dc894ca73c0f1f0868ef610262340af86a81283728294"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.toml"
 hash = "f8d262a27787b948f6ec71d548131bcac4a60adc616a78db852a40d6461563be"
 metafile = true
