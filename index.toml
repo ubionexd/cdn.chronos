@@ -9,6 +9,11 @@ file = "mods/Essential-fabric_1-18-2.jar"
 hash = "255b3b4733ff0412d59c24e586f3ce811dc4292abb57a9ce3bd6ecbd6871f1ed"
 
 [[files]]
+file = "mods/appleskin.toml"
+hash = "0940f87fc8d934433725019169945f77b7c27bd4a23828286ffb68aac4810a6c"
+metafile = true
+
+[[files]]
 file = "mods/krypton.toml"
 hash = "219d4425679c60fd2855a6a39a6fccb6db3948dcc57b9da7c20907c855c5bd3d"
 metafile = true
