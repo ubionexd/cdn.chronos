@@ -1,4 +1,4 @@
-name = "Chronos Client"
+name = "Chronos Classic"
 author = "ubionexd"
 version = "0.1.0"
 pack-format = "packwiz:1.0.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.0.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "9d41ab670c4033b24cafc27ca10927122eaa986228b0fb5d0772b096f15ffcc5"
+hash = "00efdb235f64d4fdc66eb54fcb40ee03836906876b48e87f34c904041fccd2e0"
 
 [versions]
 minecraft = "1.18.2"

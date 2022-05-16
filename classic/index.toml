@@ -9,18 +9,13 @@ file = "mods/Essential-fabric_1-18-2.jar"
 hash = "255b3b4733ff0412d59c24e586f3ce811dc4292abb57a9ce3bd6ecbd6871f1ed"
 
 [[files]]
-file = "mods/appleskin.toml"
-hash = "0940f87fc8d934433725019169945f77b7c27bd4a23828286ffb68aac4810a6c"
-metafile = true
-
-[[files]]
-file = "mods/cloth-config.toml"
-hash = "8201c0a16ace201405172e56292843cc99d8d675f1e323684943b9cee393acb1"
-metafile = true
-
-[[files]]
 file = "mods/krypton.toml"
 hash = "219d4425679c60fd2855a6a39a6fccb6db3948dcc57b9da7c20907c855c5bd3d"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.toml"
+hash = "ea127e8f74006f3a9ce099f9e96adaa3b3f4f281231ece703c4e7f9732137ebd"
 metafile = true
 
 [[files]]
@@ -31,6 +26,11 @@ metafile = true
 [[files]]
 file = "mods/qsl.toml"
 hash = "046d2a1630f05efc4c6dc894ca73c0f1f0868ef610262340af86a81283728294"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.toml"
+hash = "d935b491016306e60b08bc234cc978ac84412d84d1ae5a9b6f8878a09ea25202"
 metafile = true
 
 [[files]]
